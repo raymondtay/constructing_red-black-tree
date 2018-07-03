@@ -1,4 +1,4 @@
-# constructing_red-black-tree
+# constructing red-black-tree flânerie
 
 Created this project because i was a little bored on one saturday morning and
 decided to read a paper entitled "Constructing Red-Black Trees" by Ralf Hinze
